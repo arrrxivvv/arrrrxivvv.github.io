@@ -1,7 +1,10 @@
 ---
 title: "Parallel Acceleration of Eigenvalue Solver"
-excerpt: "Speeding up a quantum lattice solver with CPU multi-threading, GPU CUDA from Pytorch and custom memory management tool. <br/><img src='/images/500x300.png'>"
+excerpt: "8-fold speed up of a quantum lattice solver with CPU multi-threading, GPU CUDA from Pytorch, 
+70% reduction of memory consumption by custom memory management. "
 collection: portfolio
+# <br/><img src='/images/500x300.png'>
+
 # details: "This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. "
 ---
 

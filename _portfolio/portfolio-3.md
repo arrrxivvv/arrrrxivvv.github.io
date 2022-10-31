@@ -1,6 +1,6 @@
 ---
 title: "AI (artificial intelligence) player for strategy board game Reversi [C#]"
-excerpt: "100% speed upof  decision tree traversal and 50% increase in search depth. "
+excerpt: "100% speed up of  decision tree traversal and 50% increase in search depth. "
 collection: portfolio
 
 # <br/><img src='/images/500x300.png'>

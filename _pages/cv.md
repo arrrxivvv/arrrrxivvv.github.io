@@ -13,19 +13,7 @@ Education
 ======
 * B.S. in Electrical Engineering, 	National Taiwan University, 2015
 * M.S. in Physics,	National Taiwan University  2018
-* Ph.D. in Physics,	University of California, 2024 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Ph.D. in Physics,	University of California, 2024 (expected)    
  
 Related Course
 ======
@@ -38,19 +26,32 @@ Related Course
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * C++, Python, C#, Julia, Matlab
+  * CSS, Jekyll
+* Tools
+  * vim, bash, git
+* Languages
+  * English(fluent), Chinese(native)
 
+Work experience
+======
+* Sept. 2018 - present: Teaching Assistant
+  * University of California, San Diego
+  * Led discussion sessions and managed lab sessions. 
+
+* Oct. 2016 - June 2018 : Research Assistant
+  * National Taiwan University
+  * Research in Scattering Amplitudes of Particle Physics 
+ 
+* Aug. 2015 - July 2016 : Food Service Private
+  * Republic of China Air Forces
+  * Food preparation in a commercial scaled kitchen. 
+  * Became an acting leader of the food service squad. 
+  
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
