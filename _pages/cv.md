@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electrical Engineering, 	National Taiwan University, 2015
+* M.S. in Physics,	National Taiwan University  2018
+* Ph.D. in Physics,	University of California, 2024 (expected)
 
 Work experience
 ======
@@ -26,7 +26,16 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
+ 
+Related Course
+======
+* The Design and Analysis of Algorithms 
+* Data Structure and Programming 
+* Computer Programming (C++), 
+* Computer Networks
+* Probability and Statistics
+* Discrete Mathematics
+
 Skills
 ======
 * Skill 1
@@ -39,18 +48,6 @@ Skills
 Publications
 ======
   <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
